@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Project library
 
-You can use the [editor on GitHub](https://github.com/mhtess/mhtess.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can directly view the experimental paradigms for online studies and link to models and data repositories.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Submissions
 
-### Markdown
+Tessler, Lopez-Brau, & Goodman (submitted). Warm (for Winter): Comparison class understanding in vague language. Proceedings of the 39th meeting of the Cognitive Science Society.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhtess/mhtess.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Experiment 1: Comparison class inference](http://stanford.edu/~mtessler/comparison-class/experiments/class-elicitation-2afc.html)
+- [Experiment 2: Adjective production](http://stanford.edu/~mtessler/comparison-class/experiments/vague-prior-elicitation-2afc.html)
+- [Preregistration report](https://osf.io/hzdtj/)
+- [Project repository](https://github.com/mhtess/comparison-class)
+- [WebPPL models](http://forestdb.org/models/comparison-class-cogsci17.html)
