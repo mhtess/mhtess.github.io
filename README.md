@@ -4,7 +4,7 @@ Here you can directly view the experimental paradigms for online studies and lin
 
 ### Submissions
 
-Tessler, Lopez-Brau, & Goodman (submitted). Warm (for Winter): Comparison class understanding in vague language. Proceedings of the 39th meeting of the Cognitive Science Society.
+Tessler, Lopez-Brau, & Goodman (under review). Warm (for winter): Comparison class understanding in vague language. Proceedings of the 39th meeting of the Cognitive Science Society.
 
 - [Experiment 1: Comparison class inference](http://stanford.edu/~mtessler/comparison-class/experiments/class-elicitation-2afc.html)
 - [Experiment 2: Adjective production](http://stanford.edu/~mtessler/comparison-class/experiments/vague-prior-elicitation-2afc.html)
