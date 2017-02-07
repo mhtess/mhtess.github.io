@@ -9,5 +9,5 @@ Tessler, Lopez-Brau, & Goodman (submitted). Warm (for Winter): Comparison class 
 - [Experiment 1: Comparison class inference](http://stanford.edu/~mtessler/comparison-class/experiments/class-elicitation-2afc.html)
 - [Experiment 2: Adjective production](http://stanford.edu/~mtessler/comparison-class/experiments/vague-prior-elicitation-2afc.html)
 - [Preregistration report](https://osf.io/hzdtj/)
-- [Project repository](https://github.com/mhtess/comparison-class)
+- [Project repository](https://github.com/mhtess/comparison-class-cogsci17)
 - [WebPPL models](http://forestdb.org/models/comparison-class-cogsci17.html)
