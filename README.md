@@ -4,7 +4,7 @@ Here you can directly view the experimental paradigms for online studies and lin
 
 ### Submissions
 
-#### Tessler & Goodman (in prep). Communicating generalizations.
+Tessler & Goodman (in prep). Communicating generalizations.
 
 - [Experiment 1a: Generics -- Prior elicitation](http://stanford.edu/~mtessler/experiments/generics/experiments/real-kinds/prior-2.html)
 - [Experiment 1b: Generics -- Endorsements](http://stanford.edu/~mtessler/generics/experiments/real-kinds/truthjudge-1.html)
@@ -21,7 +21,7 @@ Here you can directly view the experimental paradigms for online studies and lin
 
 ### Publications
 
-#### Tessler, Lopez-Brau, & Goodman (2017). Warm (for winter): Comparison class understanding in vague language. Proceedings of the 39th meeting of the Cognitive Science Society.
+Tessler, Lopez-Brau, & Goodman (2017). Warm (for winter): Comparison class understanding in vague language. Proceedings of the 39th meeting of the Cognitive Science Society.
 
 - [Experiment 1: Comparison class inference](http://stanford.edu/~mtessler/comparison-class/experiments/class-elicitation-2afc.html)
 - [Experiment 2: Adjective production](http://stanford.edu/~mtessler/comparison-class/experiments/vague-prior-elicitation-2afc.html)
