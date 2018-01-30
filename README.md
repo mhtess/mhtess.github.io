@@ -4,6 +4,18 @@ Here you can directly view the experimental paradigms for online studies and lin
 
 ### Submissions
 
+
+Tessler & Franke (in prep). Negated antonyms.
+
+- [Experiment 1](http://stanford.edu/~mtessler/negant/experiments/4_L1_1slider/L1_4_1slider.html)
+- [Experiment 2 ](http://stanford.edu/~mtessler/negant/experiments/5_L1_4sliders/L1_5_4sliders.html)
+- [Opposite elicitation survey](http://stanford.edu/~mtessler/negant/experiments/6_antonym-elicitation/6_antonym-elicitation.html)
+- [Experiment 3: Implicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/7_interpretation_1slider/7_interpretation_1slider.html)
+- [Experiment 3: Explicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/8_interpretation_4slider/8_interpretation_4slider.html)
+- [Preregistration report (Expt. 3)](https://osf.io/p7f25/)
+- [Project repository](https://github.com/mhtess/negant/)
+- Coming soon: WebPPL models
+
 Tessler & Goodman (in prep). Communicating generalizations.
 
 - [Experiment 1a: Generics -- Prior elicitation](http://stanford.edu/~mtessler/experiments/generics/experiments/real-kinds/prior-2.html)
