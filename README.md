@@ -5,7 +5,7 @@ Here you can directly view the experimental paradigms for online studies and lin
 ### Submissions
 
 
-Tessler & Franke (in prep). Negated antonyms.
+Tessler & Franke (under review; cogsci proceedings). Negated antonyms.
 
 - [Experiment 1](http://stanford.edu/~mtessler/negant/experiments/4_L1_1slider/L1_4_1slider.html) [[data]](https://github.com/mhtess/negant/tree/master/data/4_L1_1slider) [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt1.Rmd)
 - [Opposite elicitation survey](http://stanford.edu/~mtessler/negant/experiments/6_antonym-elicitation/6_antonym-elicitation.html) [[data]](https://github.com/mhtess/negant/tree/master/data/6_antonym-elicitation)
