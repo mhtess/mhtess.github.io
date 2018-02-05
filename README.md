@@ -7,9 +7,14 @@ Here you can directly view the experimental paradigms for online studies and lin
 
 Tessler & Franke (under review; cogsci proceedings). Negated antonyms.
 
-- [Experiment 1](http://stanford.edu/~mtessler/negant/experiments/4_L1_1slider/L1_4_1slider.html) [[data]](https://github.com/mhtess/negant/tree/master/data/4_L1_1slider) [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt1.Rmd)
-- [Opposite elicitation survey](http://stanford.edu/~mtessler/negant/experiments/6_antonym-elicitation/6_antonym-elicitation.html) [[data]](https://github.com/mhtess/negant/tree/master/data/6_antonym-elicitation)
-- [Experiment 2: Implicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/7_interpretation_1slider/7_interpretation_1slider.html) [[data for expt 2 (all conditions)]](https://github.com/mhtess/negant/tree/master/writing/cogsci/data) [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt2.Rmd)
+- [Experiment 1](http://stanford.edu/~mtessler/negant/experiments/4_L1_1slider/L1_4_1slider.html)
+  - [[data]](https://github.com/mhtess/negant/tree/master/data/4_L1_1slider)
+  - [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt1.Rmd)
+- [Opposite elicitation survey](http://stanford.edu/~mtessler/negant/experiments/6_antonym-elicitation/6_antonym-elicitation.html)
+  - [[data]](https://github.com/mhtess/negant/tree/master/data/6_antonym-elicitation)
+- [Experiment 2: Implicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/7_interpretation_1slider/7_interpretation_1slider.html)
+  - [[data for expt 2 (all conditions)]](https://github.com/mhtess/negant/tree/master/writing/cogsci/data)
+  - [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt2.Rmd)
 - [Experiment 2: Explicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/8_interpretation_4slider/8_interpretation_4slider.html)
 - [Preregistration report (Expt. 2)](https://osf.io/p7f25/)
 - [Project repository](https://github.com/mhtess/negant/)
