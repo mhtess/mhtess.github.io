@@ -4,26 +4,10 @@ Here you can directly view the experimental paradigms for online studies and lin
 
 ### Submissions
 
+Tessler & Goodman (under review). The Language of Generalization.
 
-Tessler & Franke (under review; cogsci proceedings). Negated antonyms.
-
-- [Experiment 1](http://stanford.edu/~mtessler/negant/experiments/4_L1_1slider/L1_4_1slider.html)
-  - [[data]](https://github.com/mhtess/negant/tree/master/data/4_L1_1slider)
-  - [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt1.Rmd)
-- [Opposite elicitation survey](http://stanford.edu/~mtessler/negant/experiments/6_antonym-elicitation/6_antonym-elicitation.html)
-  - [[data]](https://github.com/mhtess/negant/tree/master/data/6_antonym-elicitation)
-- [Experiment 2: Implicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/7_interpretation_1slider/7_interpretation_1slider.html)
-  - [[data for expt 2 (all conditions)]](https://github.com/mhtess/negant/tree/master/writing/cogsci/data)
-  - [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt2.Rmd)
-- [Experiment 2: Explicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/8_interpretation_4slider/8_interpretation_4slider.html)
-- [Preregistration report (Expt. 2)](https://osf.io/p7f25/)
-- [Project repository](https://github.com/mhtess/negant/)
-- Coming soon: WebPPL models
-
-Tessler & Goodman (in prep). Communicating generalizations.
-
-- [Experiment 1a: Generics -- Prior elicitation](http://stanford.edu/~mtessler/experiments/generics/experiments/real-kinds/prior-2.html)
-- [Experiment 1b: Generics -- Endorsements](http://stanford.edu/~mtessler/generics/experiments/real-kinds/truthjudge-1.html)
+- [Experiment 1a: Generics -- Endorsements](http://stanford.edu/~mtessler/generics/experiments/real-kinds/truthjudge-1.html)
+- [Experiment 1b: Generics -- Prior elicitation](http://stanford.edu/~mtessler/experiments/generics/experiments/real-kinds/prior-2.html)
 - [Experiment 2a: Habituals -- Prior elicitation](http://stanford.edu/~mtessler/habituals/experiments/priors/priors-2.html)
 - [Experiment 2b: Habituals -- Endorsements](http://stanford.edu/~mtessler/habituals/experiments/truth-judgments/tj-2.html)
 - [Experiment 2c: Habituals -- Predictive elicitation (causal event manipulation)](http://stanford.edu/~mtessler/habituals/experiments/priors/predictive-1.html)
@@ -32,12 +16,26 @@ Tessler & Goodman (in prep). Communicating generalizations.
 - [Experiment 3b: Causals -- Endorsements (causal event manipulation)](http://stanford.edu/~mtessler/causals/experiments/causals-8.html)
 - [Cue validity experiment -- Free production](http://stanford.edu/~mtessler/generics-paper/experiments/generics/speaker_familiar-kinds/cue-validity-2-freeProduction.html)
 - [Cue validity experiment -- Direct question](http://stanford.edu/~mtessler/generics-paper/experiments/generics/speaker_familiar-kinds/cue-validity-1.html)
-- [Project repository](https://github.com/mhtess/comgen-paper/)
+- [Project repository, including all data](https://github.com/mhtess/comgen-paper/)
 - [WebPPL models](https://github.com/mhtess/comgen-paper/)
 
 ### Publications
 
-Tessler, Lopez-Brau, & Goodman (2017). Warm (for winter): Comparison class understanding in vague language. Proceedings of the 39th meeting of the Cognitive Science Society.
+
+Tessler & Franke (2018). Not unreasonable: Carving vague dimensions with contraries and contradictions. *Proceedings of the 39th meeting of the Cognitive Science Society.*
+
+- [Experiment 1](http://stanford.edu/~mtessler/negant/experiments/4_L1_1slider/L1_4_1slider.html) [[data]](https://github.com/mhtess/negant/tree/master/data/4_L1_1slider) [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt1.Rmd)
+- [Opposite elicitation survey](http://stanford.edu/~mtessler/negant/experiments/6_antonym-elicitation/6_antonym-elicitation.html)
+  - [[data]](https://github.com/mhtess/negant/tree/master/data/6_antonym-elicitation)
+- [Experiment 2: Implicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/7_interpretation_1slider/7_interpretation_1slider.html)
+  - [[data for expt 2 (all conditions)]](https://github.com/mhtess/negant/tree/master/writing/cogsci/data)
+  - [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt2.Rmd)
+- [Experiment 2: Explicit alternatives condition ](http://stanford.edu/~mtessler/negant/experiments/8_interpretation_4slider/8_interpretation_4slider.html)
+- [Preregistration report (Expt. 2)](https://osf.io/p7f25/)
+- [Project repository](https://github.com/mhtess/negant/)
+
+
+Tessler, Lopez-Brau, & Goodman (2017). Warm (for winter): Comparison class understanding in vague language. *Proceedings of the 39th meeting of the Cognitive Science Society.*
 
 - [Experiment 1: Comparison class inference](http://stanford.edu/~mtessler/comparison-class/experiments/class-elicitation-2afc.html)
 - [Experiment 2: Adjective production](http://stanford.edu/~mtessler/comparison-class/experiments/vague-prior-elicitation-2afc.html)
