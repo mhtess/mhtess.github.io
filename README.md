@@ -4,7 +4,7 @@ Here you can directly view the experimental paradigms for online studies and lin
 
 ### Submissions
 
-Tessler & Goodman (under review). The Language of Generalization.
+[Tessler & Goodman (under review). The Language of Generalization.](projects/genlang/genlang_index.html)
 
 - [Experiment 1a: Generics -- Endorsements](http://stanford.edu/~mtessler/generics/experiments/real-kinds/truthjudge-1.html)
 - [Experiment 1b: Generics -- Prior elicitation](http://stanford.edu/~mtessler/experiments/generics/experiments/real-kinds/prior-2.html)
