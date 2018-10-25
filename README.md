@@ -2,27 +2,12 @@
 
 Here you can directly view the experimental paradigms for online studies and link to models and data repositories.
 
-### Submissions
+[Tessler and Goodman (under review). The Language of Generalization.](projects/genlang/genlang_index.html)
 
-[Tessler & Goodman (under review). The Language of Generalization.](projects/genlang/genlang_index.html)
+[Tessler and Franke (2018). Not unreasonable: Carving vague dimensions with contraries and contradictions.](projects/negant-cogsci/negant_index.html) *Proceedings of the 40th meeting of the Cognitive Science Society.*
 
-- [Experiment 1a: Generics -- Endorsements](http://stanford.edu/~mtessler/generics/experiments/real-kinds/truthjudge-1.html)
-- [Experiment 1b: Generics -- Prior elicitation](http://stanford.edu/~mtessler/experiments/generics/experiments/real-kinds/prior-2.html)
-- [Experiment 2a: Habituals -- Prior elicitation](http://stanford.edu/~mtessler/habituals/experiments/priors/priors-2.html)
-- [Experiment 2b: Habituals -- Endorsements](http://stanford.edu/~mtessler/habituals/experiments/truth-judgments/tj-2.html)
-- [Experiment 2c: Habituals -- Predictive elicitation (causal event manipulation)](http://stanford.edu/~mtessler/habituals/experiments/priors/predictive-1.html)
-- [Experiment 2d: Habituals -- Endorsements (causal event manipulation)](http://stanford.edu/~mtessler/habituals/experiments/truth-judgments/tj-3-preventatives.html)
-- [Experiment 3a: Causals -- Prior manipulation check](http://stanford.edu/~mtessler/causals/experiments/causals-8.html)
-- [Experiment 3b: Causals -- Endorsements (causal event manipulation)](http://stanford.edu/~mtessler/causals/experiments/causals-8.html)
-- [Cue validity experiment -- Free production](http://stanford.edu/~mtessler/generics-paper/experiments/generics/speaker_familiar-kinds/cue-validity-2-freeProduction.html)
-- [Cue validity experiment -- Direct question](http://stanford.edu/~mtessler/generics-paper/experiments/generics/speaker_familiar-kinds/cue-validity-1.html)
-- [Project repository, including all data](https://github.com/mhtess/comgen-paper/)
-- [WebPPL models](https://github.com/mhtess/comgen-paper/)
+[Tessler, Lopez-Brau, and Goodman (2017). Warm (for winter): Comparison class understanding in vague language.](projects/comparisonclass-cogsci/comparisonclass_index.html) *Proceedings of the 39th meeting of the Cognitive Science Society.*
 
-### Publications
-
-
-Tessler & Franke (2018). Not unreasonable: Carving vague dimensions with contraries and contradictions. *Proceedings of the 39th meeting of the Cognitive Science Society.*
 
 - [Experiment 1](http://stanford.edu/~mtessler/negant/experiments/4_L1_1slider/L1_4_1slider.html) [[data]](https://github.com/mhtess/negant/tree/master/data/4_L1_1slider) [[analysis]](https://github.com/mhtess/negant/blob/master/writing/cogsci/analysis/expt1.Rmd)
 - [Opposite elicitation survey](http://stanford.edu/~mtessler/negant/experiments/6_antonym-elicitation/6_antonym-elicitation.html)
