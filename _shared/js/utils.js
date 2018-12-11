@@ -114,19 +114,24 @@ var utils = {
 		});
 	},
 
-	make_slider: function(label, response_callback, orientation) {
+	make_slider: function(label, response_callback, orientation, step, sliderSize) {
 		var orientation = (orientation == null) ? "horizontal" : orientation;
+		var step = (step == null) ? 0.01 : step;
+		var sliderSize = (sliderSize == null) ? 400 : sliderSize;
 		$(label).empty();
 		$(label).slider({
 			range : "min",
 			min : 0,
 			max : 1,
-			step: 0.01,
+			step: step,
 			value : 0.5,
 			slide : response_callback,
 			change : response_callback,
 			orientation : orientation
 		});
+		orientation == "horizontal" ? 
+			$(label).css({"width":sliderSize}) :
+			$(label).css({"height":sliderSize});
 		$(label + ' .ui-slider-handle').hide();
 		$(label).mousedown(function(){
 			$(label + ' .ui-slider-handle').show();
@@ -138,6 +143,8 @@ var utils = {
 		});
 		$(label).css({"background":"#eee"});
 	}
+
+
 }
 /*
 		var keys = getUnique.apply(list_keys);

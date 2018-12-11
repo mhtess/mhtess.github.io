@@ -20,6 +20,7 @@ var _stream = function() {
   if (exp.nQs) {
     //if number of total questions is defined, then show progress bar
     $('.bar').css('width', ( (exp.phase / exp.nQs)*100 + "%"));
+    // $('.bar-text').html((exp.phase + "/"+ exp.nQs));
   } else {
     $(".progress").hide();
   }
