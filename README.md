@@ -2,7 +2,7 @@
 
 Here you can directly view the experimental paradigms for online studies and link to models and data repositories.
 
-[Tessler and Goodman (under review). The Language of Generalization.](projects/genlang_index.html)
+[Tessler and Goodman (2019). The Language of Generalization.](projects/genlang_index.html) *Psychological Review*
 
 [Tessler and Franke (2018). Not unreasonable: Carving vague dimensions with contraries and contradictions.](projects/negant_index.html) *Proceedings of the 40th meeting of the Cognitive Science Society.*
 
